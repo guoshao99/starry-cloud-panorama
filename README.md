@@ -1,6 +1,10 @@
 # 星光云全景
-# 更多详细介绍请前往CSDN
+# 更多详细介绍请前往CSDN查看
 # [星光云全景详细介绍](https://blog.csdn.net/qq_34523482/article/details/140058675)
+# 体验账号密码
+## https://vr.ailemon.cc/manager
+## 账号：18175760278  密码：12345678
+
 
 #### 介绍
 星光云720全景VR系统源码
