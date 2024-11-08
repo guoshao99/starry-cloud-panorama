@@ -1,37 +1,51 @@
 # 星光云全景
+# 更多详细介绍请前往CSDN
+# [星光云全景详细介绍](https://blog.csdn.net/qq_34523482/article/details/140058675)
 
 #### 介绍
 星光云720全景VR系统源码
 
-#### 软件架构
-软件架构说明
+# moon-starters
+
+## 项目介绍
+
+`moon-starters`是Moon脚手架及其业务模块的基础支撑构件，可以快速引入其他中间件和基础配置
+
+## JDK版本 
+JDK compatibility: 17 - 21
+
+## 后端主要依赖
+| 组件 | 
+|:---|
+| Spring Boot 3.2.3 | 
+| Spring Cloud Alibaba 2023.0.0.0-RC1 | 
+| Web 容器: Undertow (embedded) | 
+| 安全框架&会话管理: SA-Token | 
+| 持久层框架: Mybatis-Plus | 
+| 数据库连接池: HikariCP | 
+| 缓存中间件: Redis | 
+| Redis分布式业务锁框架: Redisson | 
+| RPC框架: Dubbo | 
+| 分布式事务框架: Seata | 
+| 常用工具集: Hutool-all | 
+| API文档: Knife4j | 
+| 日志框架: Slf4j + Logback | 
 
 
-#### 安装教程
+## 前端框架
+| 框架                              | 
+|:--------------------------------|
+| 基于Vue Vben Admin 改造适配的前端框架，开箱即用 | 
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 前端node 版本
+| 版本                              | 
+|:--------------------------------|
+| node版本 >=18.12.0 | 
+| pnpm >=8.10.0 | 
 
-#### 使用说明
+# 部分系统图
+![输入图片说明](1.jpg)
+![输入图片说明](2.jpg)
+![输入图片说明](3.jpg)
+![输入图片说明](4.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
