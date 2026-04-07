@@ -6,7 +6,7 @@
 ## 账号：18175760278  密码：12345678
 
 ## 源码地址
-https://gitee.com/enterprise-show/qixiu-admin-vue-vben
+https://gitee.com/enterprise-show
 
 ## 作者微信
 ![输入图片说明](aaron.jpg)
